@@ -11,9 +11,7 @@ body {
     background-position: center;
     
 }
-@media screen and (max-width: 768px) {
-   
-}
+
 
 .resume-container {
     display: flex;
@@ -24,7 +22,7 @@ body {
 }
 
 .container {
-    width: 768px;
+    width: 800px;
     background-color: #faf9f9;
     padding: 40px;
     border-radius:0px;
