@@ -16,7 +16,7 @@ body {
 .resume-container {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: right;
     height: 230vh;
     
 }
